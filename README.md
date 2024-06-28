@@ -8,3 +8,8 @@
 - The app utilizes the NewsAPI, a popular news aggregator API, to fetch the latest news articles from various sources.
 - The app employs the concept of infinite scroll, allowing users to continuously scroll through news articles without having to click on 
   pagination links or load more buttons.
+
+  
+
+https://github.com/axypx06/NewsUpdate-React-App/assets/110666919/fcab6dd1-3060-408c-8701-cd7f2089236c
+
